@@ -1,0 +1,147 @@
+﻿  Bullet.cpp
+  CreateBackground.cpp
+C:\Users\yberk\Desktop\Zombie-Arena-main\CreateBackground.cpp(29,64): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\CreateBackground.cpp(29,49): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\CreateBackground.cpp(30,78): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\CreateBackground.cpp(30,63): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\CreateBackground.cpp(31,92): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\CreateBackground.cpp(31,63): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\CreateBackground.cpp(32,78): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\CreateBackground.cpp(32,49): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\CreateBackground.cpp(51,54): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\CreateBackground.cpp(52,62): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\CreateBackground.cpp(53,70): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\CreateBackground.cpp(54,62): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+  CreateHorde.cpp
+C:\Users\yberk\Desktop\Zombie-Arena-main\CreateHorde.cpp(25,8): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\yberk\Desktop\Zombie-Arena-main\CreateHorde.cpp(26,24): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\yberk\Desktop\Zombie-Arena-main\CreateHorde.cpp(30,8): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\yberk\Desktop\Zombie-Arena-main\CreateHorde.cpp(31,24): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\yberk\Desktop\Zombie-Arena-main\CreateHorde.cpp(35,24): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\yberk\Desktop\Zombie-Arena-main\CreateHorde.cpp(36,8): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\yberk\Desktop\Zombie-Arena-main\CreateHorde.cpp(40,24): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\yberk\Desktop\Zombie-Arena-main\CreateHorde.cpp(41,8): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  Pickup.cpp
+C:\Users\yberk\Desktop\Zombie-Arena-main\Pickup.cpp(26,20): warning C4244: '=': 'const int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\yberk\Desktop\Zombie-Arena-main\Pickup.cpp(27,20): warning C4244: '=': 'const int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\yberk\Desktop\Zombie-Arena-main\Pickup.cpp(51,26): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\yberk\Desktop\Zombie-Arena-main\Pickup.cpp(51,23): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\yberk\Desktop\Zombie-Arena-main\Pickup.cpp(107,34): warning C4244: '+=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\yberk\Desktop\Zombie-Arena-main\Pickup.cpp(111,32): warning C4244: '+=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Player.cpp
+C:\Users\yberk\Desktop\Zombie-Arena-main\Player.cpp(7,13): warning C4244: '=': 'const float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\yberk\Desktop\Zombie-Arena-main\Player.cpp(8,16): warning C4244: '=': 'const float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\yberk\Desktop\Zombie-Arena-main\Player.cpp(21,29): warning C4244: '=': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\Player.cpp(22,30): warning C4244: '=': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\Player.cpp(38,13): warning C4244: '=': 'const float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\yberk\Desktop\Zombie-Arena-main\Player.cpp(39,16): warning C4244: '=': 'const float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\yberk\Desktop\Zombie-Arena-main\Player.cpp(153,32): warning C4244: '=': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\Player.cpp(158,32): warning C4244: '=': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\Player.cpp(163,33): warning C4244: '=': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\Player.cpp(168,33): warning C4244: '=': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\Player.cpp(172,14): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\yberk\Desktop\Zombie-Arena-main\Player.cpp(180,26): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  TextureHolder.cpp
+  Zombie Arena.cpp
+C:\Users\yberk\Desktop\Zombie-Arena-main\Zombie Arena.cpp(25,44): warning C4244: '=': 'unsigned int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\Zombie Arena.cpp(26,44): warning C4244: '=': 'unsigned int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\Zombie Arena.cpp(28,56): warning C4244: 'bağımsız değişken': 'T' - 'unsigned int' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\Zombie Arena.cpp(28,42): warning C4244: 'bağımsız değişken': 'T' - 'unsigned int' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\yberk\Desktop\Zombie-Arena-main\Zombie Arena.cpp(616,50): warning C4244: 'bağımsız değişken': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+  Zombie.cpp
+C:\Users\yberk\Desktop\Zombie-Arena-main\Zombie.cpp(38,17): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\yberk\Desktop\Zombie-Arena-main\Zombie.cpp(116,15): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  Kod Üretiliyor...
+  Zombie Arena.vcxproj -> C:\Users\yberk\Desktop\Zombie-Arena-main\Debug\Zombie Arena.exe
